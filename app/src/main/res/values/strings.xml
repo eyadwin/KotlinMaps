@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="cities">
+        <item>Kuwait</item>
+        <item>Amman</item>
+        <item>Cairo</item>
+        <item>NewYork</item>
+    </string-array>
+</resources>
